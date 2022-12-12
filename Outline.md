@@ -6,4 +6,4 @@
 - store the closest stations to zip codes in another csv file
 - take in a user given zip code and find the closest station 
 - scrape tide data about that station from the NOAA site
-- 
+- print the closest station name, the distance this station is from the zip code, when the next tide will happen, if it is a high or low tide and how much the water level will change
