@@ -1,0 +1,1019 @@
+station id,name,lat,lon
+8414168,Center Harbor,44.2633,-68.5867
+8414424,Little Deer Isle,44.2917,-68.6933
+8424601,Jaffrey Point,43.0567,-70.7133
+8419688,Gerrish Island,43.0667,-70.6967
+8423898,Fort Point,43.071388244628906,-70.71055603027344
+8419807,Kittery Point,43.0817,-70.7033
+8419870,Seavey Island,43.0797222,-70.74111111111111
+8423745,Portsmouth,43.0783,-70.7517
+8440452,"Plum Island, Merrimack River Entrance",42.8167,-70.82
+8440466,Newburyport,42.815,-70.8733
+8440273,Salisbury Point,42.8383,-70.9083
+8440369,Merrimacport,42.825,-70.9883
+8440889,Riverside,42.7633,-71.0767
+8447939,Little Harbor,41.52,-70.665
+8447930,OCEANOGRAPHIC INSTITUTION,41.52361297607422,-70.67111206054688
+8447941,Uncatena Island (south side),41.52,-70.7083
+8450768,Sakonnet,41.465,-71.1933
+8451351,"Sachuest, Flint Point",41.4867,-71.2383
+8451301,The Glen,41.5583,-71.2367
+8450954,Nannaquaket Neck,41.6183,-71.2033
+8450948,Anthony Point,41.6383,-71.2117
+8450898,"North End, Bay Oil pier",41.6517,-71.21
+8530985,Constable Hook,40.655,-74.085
+8519483,"Bayonne Bridge, Bergen Point",40.63669967651367,-74.1417007446289
+8532339,"Shark River Island, fixed RR. bridge",40.1867,-74.0267
+8532322,Shark River Hills,40.1917,-74.0383
+8532371,New Bedford,40.1783,-74.0467
+8574070,Havre de Grace,39.5367,-76.09
+8574008,Port Deposit,39.6033,-76.1133
+9751389,"Salt River Bay, St. Croix",17.775299072265625,-64.76229858398438
+9751364,"Christiansted Harbor, St Croix",17.74769444444445,-64.69838888888889
+9751084,"Teague Bay, St. Croix",17.7549991607666,-64.60240173339844
+9751082,"Grapetree Bay, St, Croix",17.740699768066406,-64.60579681396484
+9751219,"Fareham Bay, St. Croix",17.709999084472656,-64.68280029296875
+9751401,"LIME TREE BAY, ST.CROIX ISLAND",17.694700241088867,-64.75379943847656
+9751584,"Fredericksted, St. Croix",17.7133,-64.8833
+9450551,"Craig, Klawock Inlet",55.4883,-133.142
+9450584,"Cruz Pass, San Fernando Island",55.5417,-133.315
+9454125,Shag Rock,60.465,-145.988
+TWC1875,Gravel Point,60.46666666666701,-145.96666666667008
+9454050,CORDOVA,60.5583,-145.755
+TWC1879,Orca,60.583333333332995,-145.71666666667008
+9462961,"Isanotski Strait Entrance, Ikatan Bay",54.77844444444445,-163.3642777777778
+9462971,Dora Harbor,54.71,-163.267
+9462948,"Neumans Cove, Unimak Island",54.9667,-163.44
+9462955,"False Pass, Isanotski Strait",54.8583,-163.407
+9462941,"Cape Chunak, AK",55.06427777777778,-163.5341666666667
+9462944,St. Catherine Cove,55.01,-163.507
+9462838,Cape Mordvinof,54.9283,-164.467
+9462787,Cape Sarichef,54.6,-164.928
+9462808,Scotch Cap,54.39363888888889,-164.7457222222222
+1814060,Christmas Island,1.985,-157.477
+TPT2743,Fanning Island,3.85,-159.36666666667008
+TPT2821,Caroline Island,-10.0,-150.233333
+TPT2855,Canton Island,-2.799999952316284,-171.71670532226562
+TPT2831,"Taio Hae Bay, Nuku Hiva Island",-8.933333333333334,-140.1
+TPT2833,"Vai Tahu, Tahu Ata Island",-9.933333333333334,-139.1
+9450142,"Kelp Island Passage, Duke Island",54.8767,-131.3
+9450104,"Nakat Harbor, Alaska",54.82,-130.7
+8218362,"Haystack Island, B.C.",54.71666666666667,-130.6166666666667
+8423635,Atlantic Heights,43.09,-70.7633
+8421897,Dover Point,43.1217,-70.8333
+8420411,"Dover, Cocheco River",43.1983,-70.8683
+8419997,Salmon Falls River,43.1917,-70.825
+8422687,Squamscott River RR. Bridge,43.0533,-70.9133
+8638288,Old Point Comfort,37.0033,-76.315
+8638610,HAMPTON ROADS (Sewells Point),36.94269444444444,-76.32869444444445
+8720135,entrance,30.5183,-81.4533
+8720098,Nassauville,30.5683,-81.515
+8720148,"Tiger Point, Pumpkin Hill Creek",30.5017,-81.495
+8720145,"Edwards Creek, 1 mi. above entrance",30.5017,-81.5417
+8720097,"Cuno, Lofton Creek",30.5767,-81.5717
+8720119,Mink Creek entrance,30.5367,-81.5817
+8720093,"Halfmoon Island, highway bridge",30.5767,-81.6083
+8720084,"Boggy Creek, 2 mi. above entrance",30.5883,-81.6633
+9751774,"Botany Bay, St. Thomas Island",18.3633,-65.035
+9751768,"Dorothea Bay, Saint Thomas Island",18.37125,-64.96347222222222
+9751693,"Magens Bay, St. Thomas",18.366300582885742,-64.9220962524414
+9751583,Water Bay,18.34894444444445,-64.86416666666666
+9751561,"Pavillion Point, St. Thomas",18.33989906311035,-64.85240173339844
+9751540,"Redhook Bay, St. Thomas Island",18.3267,-64.8517
+9751494,"Dog Island, St. Thomas",18.29713888888889,-64.81775
+9751574,"Jersey Bay, St. Thomas",18.318099975585938,-64.8594970703125
+9751639,"CHARLOTTE AMALIE, ST. THOMAS ISLAND",18.33583333333333,-64.92
+9751749,"Crown Bay, St. Thomas",18.33289909362793,-64.95169830322266
+9450578,"Steamboat Bay, Noyes Island",55.5333,-133.637
+9450679,Anguilla Island,55.6833,-133.587
+9450711,"Nossuk Bay, Tonowek Bay",55.72166666666666,-133.35
+8218447,"Wales Island (Cannery), Pearse Canal",54.76666666666667,-130.55
+8218361,"Kumeon Bay, B.C.",54.71666666666667,-130.2166666666667
+8218617,"Mill Bay, Nass River, B.C.",55.0,-129.9
+8219894,"Stewart, B.C.",55.91666666666666,-129.8
+9450729,"Davis River entrance, Alaska",55.76,-130.177
+TPT2835,Mangareva Island,-23.13333333333333,-134.9666666666667
+TPT2837,Hao (Bow or La Harpe) Island,-18.06666666666667,-140.9833333333333
+TPT2839,Rahiroa (Rangiroa) Island,-14.95,-147.7333333333333
+8410715,"Garnet Point, Pennamquan River",44.9233,-67.13
+8410714,Coffins Point,44.87,-67.1083
+8410875,Birch Islands,44.875,-67.1583
+8410864,"Gravelly Point, Whiting Bay",44.82333333333333,-67.15166666666667
+8461490,"NEW LONDON, State Pier",41.36140060424805,-72.08999633789062
+8461467,Yale boathouse,41.43,-72.0933
+8461392,Norwich,41.5233,-72.0783
+8531232,South Amboy,40.4917,-74.2817
+8531262,Keasbey,40.50830078125,-74.31169891357422
+8531390,Sayreville,40.47829818725586,-74.35669708251953
+8531369,"Old Bridge, South River",40.41669845581055,-74.36329650878906
+8531463,New Brunswick,40.48830032348633,-74.43499755859375
+8531712,"Highlands, Route 36 bridge",40.3967,-73.9817
+8531753,"Oceanic Bridge, Navesink River",40.3767,-74.015
+8531833,"Red Bank, Navesink River",40.355,-74.065
+8531804,Sea Bright,40.365,-73.975
+8531925,"Gooseneck Point, bridge",40.3267,-74.0167
+8531942,Long Branch Reach,40.325,-73.9967
+8542425,Wanamaker Bridge,39.8767,-75.305
+8542699,Norwood City,39.88,-75.29
+8542885,Tinicum National Wildlife Refuge,39.8783,-75.2767
+8543024,Tinicum National Wildlife Refuge,39.8867,-75.265
+8571097,Shelltown,37.98,-75.6383
+8571359,"Snowhill, city park",38.17833,-75.39666666666666
+8574857,North Point,39.1967,-76.445
+8574931,Stony Creek,39.1633,-76.5267
+8574821,Hawkins Point,39.2083,-76.5333
+8574680,"Baltimore, Fort McHenry",39.266700744628906,-76.57830047607422
+8574683,Fort McHenry Marsh,39.2617,-76.585
+8638514,Pig Point,36.9167,-76.435
+8638406,Town Point,36.8833,-76.5083
+8638409,Hollidays Point (Kings Highway bridge),36.8383,-76.55
+8677833,2.5 miles above mouth,31.0583,-81.4933
+8677566,8 miles above mouth,31.0983,-81.5733
+TEC3531,Below Spring Bluff,31.16666666666701,-81.616666666667
+9450768,"Port Alice, Heceta Island",55.8117,-133.605
+9450817,"Tuxekan, 0.5 mile south of",55.8833,-133.243
+9450851,El Capitan Island,55.9367,-133.325
+TWC1579,"Cyrus Cove, Sea Otter Sound",55.916666666667005,-133.4
+TWC1583,Marble Island,56.0,-133.46666666667008
+9450859,Edna Bay,55.95,-133.662
+9451468,"Symonds Bay, Biorka Island",56.8567,-135.52
+9451600,SITKA,57.05169444444444,-135.342
+9451725,"Olga Point, Olga Strait",57.2283,-135.537
+9451741,"Whitestone Narrows, Neva Strait",57.25,-135.567
+TPT2727,Makin Atoll,3.0333333333333,172.8
+TPT2729,Tarawa Atoll,1.3666666666667,172.93333333332993
+TPT2731,Abemama Atoll,0.46666666666667,173.83333333332993
+TPT2733,Nonouti Atoll,-0.66666666666667,174.45
+TPT2735,Ocean Island,-0.86666666666667,169.58333333332993
+9751467,"Lovango Cay, St. Johns Island",18.36066666666667,-64.80352777777777
+9751417,"Hawksnest Beach, St. John",18.348899841308594,-64.77739715576172
+9751309,"Leinster Point, Leinster Bay, St. Johns Island",18.36761111111111,-64.72072222222222
+9751419,"Haulover Bay, St. Johns",18.349700927734375,-64.67960357666016
+9751373,"Coral Harbor, St. Johns",18.34830093383789,-64.7166976928711
+9751274,"Johns Folly Bay, St. John Island",18.316999435424805,-64.70210266113281
+9751381,"Lameshur Bay, St. Johns Island",18.31825,-64.72422222222222
+9751388,"Fish Bay, St. John",18.31920051574707,-64.76180267333984
+9751472,"Cruz Bay, St. John",18.33289909362793,-64.79409790039062
+1732417,"Papeete Harbor, Fare Ute Point",-17.535,-149.572
+8415933,Port Clyde,43.925,-69.26
+8415867,Otis Cove,43.9867,-69.2367
+8415709,Thomaston,44.0717,-69.1817
+8453999,Beavertail Point,41.4517,-71.4017
+8453742,"West Jamestown, Dutch Island Harbor",41.4967,-71.3867
+8453465,Conanicut Point,41.5733,-71.3717
+8530743,Point No Point,40.7317,-74.1167
+8530591,Belleville,40.7867,-74.1467
+8530403,East Rutherford,40.8467,-74.12
+8667524,Seabrook,32.5233,-80.4067
+8667482,"Ashepoo-Coosaw Cutoff, ICWW",32.525,-80.4517
+8667295,"White House Woods, Mosquito Creek",32.55870056152344,-80.45439910888672
+8667209,"Musselboro Island, Mosquito Creek",32.5783,-80.4483
+8667351,Hutchinson Island,32.5517,-80.4817
+8667201,Bluff Islands,32.5783,-80.4933
+8667017,"Brickyard Ferry, swing bridge",32.6133,-80.4817
+8666749,Airy Hall Plantation,32.6317,-80.4717
+8665814,Ashepoo,32.7433,-80.5567
+9450495,"Saltery Cove, Skowl Arm",55.4017,-132.328
+9450581,Kasaan,55.535,-132.397
+9450625,Lindeman Cove,55.6017,-132.512
+9450544,Hollis Anchorage,55.48,-132.645
+9452649,"Canoe Cove, North Pass",57.8467,-136.422
+9452633,Miner Island,58.01,-136.342
+9452611,"Pelican Harbor, Lisianski Inlet, AK",57.95777777777778,-136.2267777777778
+9454319,Johnstone Point,60.4817,-146.61
+TWC1887,Port Etches,60.333333333332995,-146.55
+9454329,Cape Hinchinbrook,60.23830032348633,-146.6479949951172
+9455500,"SELDOVIA, Kachemak Bay",59.44049835205078,-151.7198944091797
+9455517,"Kasitsna Bay, Kachemak Bay",59.46830555555555,-151.565
+9455506,"Tutka Bay,Kachemak Bay",59.4317,-151.357
+9455514,"Sadie Cove, Kachemak Bay",59.49,-151.365
+9455556,"Halibut Cove, Kachemak Bay",59.5967,-151.22
+9455558,"Homer, Coal Point, Kachemak Bay",59.60139846801758,-151.4105987548828
+9455595,"Bear Cove, Kachemak Bay",59.725,-151.023
+TPT2847,Rapa (Oparo) Island,-27.6,-144.2833333333333
+TPT2849,Tubuai Island,-23.36666666666667,-149.4666666666667
+8446166,"Duxbury, Duxbury Harbor",42.0383,-70.67
+8446493,Plymouth,41.96,-70.6617
+8447173,"Cape Cod Canal, Sagamore",41.775,-70.535
+8447191,"Cape Cod Canal, Bournedale",41.77,-70.5617
+8447259,"Cape Cod Canal, Bourne Bridge",41.745,-70.5933
+8447180,"Sandwich Marina, Cape Cod Canal, east entrance",41.7717,-70.5067
+8447335,"Barnstable Harbor, Beach Point",41.7217,-70.285
+8447241,"Sesuit Harbor, East Dennis",41.7517,-70.155
+8446613,Wellfleet,41.93,-70.0417
+8446121,Provincetown,42.04959166666666,-70.18215833333333
+8462723,Saybrook Jetty,41.2633,-72.3433
+8462752,Saybrook Point,41.2833,-72.35
+8462764,"Lyme, highway bridge",41.3217,-72.35
+8462925,Essex,41.3483,-72.385
+8463155,Hadlyme,41.42,-72.4283
+8463348,Tylerville,41.4517,-72.465
+8463582,Haddam,41.4817,-72.5067
+8463836,Higganum Creek,41.5033,-72.5533
+8463827,Maromas,41.5417,-72.5517
+8464336,Middletown,41.56,-72.645
+8464255,Rocky Hill,41.6633,-72.63
+8464418,South Hartford,41.755,-72.6583
+8464464,Hartford,41.77,-72.6683
+8530772,Kearny Point,40.7283,-74.1033
+8530696,Amtrak RR. swing bridge,40.7517,-74.0967
+8530586,"Fish Creek, Berrys Creek",40.7933,-74.0917
+8530528,"Carlstadt, Garretts Reach",40.8067,-74.06
+8530531,"North Secaucus, Garretts Reach",40.805,-74.0533
+8530398,Ridgefield Park,40.85,-74.03
+8530278,Hackensack,40.88,-74.04
+8530186,New Millford,40.935,-74.03
+8532585,"Brielle, Route 35 bridge",40.105,-74.055
+8532611,Riviera Beach,40.0967,-74.0867
+8537535,"1 n.mi. above entrance, N.J.",39.4317,-75.4467
+8537488,"Pine Island, Malapartis Creek, N.J.",39.4217,-75.4283
+8638867,Bayville,36.8933,-76.105
+8638854,Buchanan Creek entrance,36.8617,-76.115
+8638922,Brown Cove,36.875,-76.0617
+8638923,Broad Bay Canal,36.9017,-76.0617
+8638916,Long Creek,36.9033,-76.07
+8666767,Snake Island,32.64,-80.015
+8666283,Abbapoola Creek entrance,32.6767,-80.0067
+8665641,Elliott Cut entrance,32.7633,-80.0017
+8665599,"Pennys Creek, west entrance",32.7683,-80.07
+8665589,"Sandblasters, Pennys Creek",32.77,-80.0633
+8665475,Limehouse Bridge,32.7867,-80.105
+8665763,Church Flats,32.74254166666667,-80.17194444444445
+8667927,Village Creek Entrance,32.445,-80.5033
+8668077,Village Creek Cemetery,32.4167,-80.52
+8667972,"Edding Point, Edding Creek",32.4467,-80.5333
+8667982,"Jenkins Creek, 1 mi. above entrance",32.44,-80.5533
+8668091,"Jenkins Creek, Polawana Island",32.42,-80.5767
+8667901,Lucy Point Creek entrance,32.4517,-80.61
+8671315,"Priest Landing, Wilmington River",31.963300704956055,-81.01170349121094
+TEC3405,Savannah Sheraton Resort Hotel,32.0,-81.0
+TEC3407,Thunderbolt,32.03333333333299,-81.05
+TEC3409,North entrance,32.06666666666701,-81.0
+8678412,Todd Creek entrance,30.9717,-81.52
+8678322,"Bailey Cut, 0.8 mile west of",30.985,-81.5917
+8678466,Ceylon,30.9633,-81.655
+TEC3541,Burnt Fort,30.95,-81.9
+9452671,Takanis Bay,57.9283,-136.52
+9452672,Surge Bay,58.0183,-136.528
+9454562,Wooded Islands,59.875,-147.403
+9454574,Patton Bay,59.9067,-147.45
+9454674,Macleod Harbor,59.89,-147.795
+TWC1893,Hanning Bay,59.95,-147.68333333332993
+9454616,"5 miles NE of Point Brazil, Montague Island",60.025,-147.592
+9454561,Perch Point,60.1267,-147.395
+9454511,Port Chalmers,60.2418,-147.249
+1611401,Waimea Bay,21.9567,-159.673
+1611347,"Port Allen, Hanapepe Bay",21.9033,-159.592
+1611400,NAWILIWILI,21.9544,-159.3561
+1611443,Hanamaulu Bay,21.995,-159.335
+1611683,Hanalei Bay,22.215,-159.502
+8447505,"Chatham, Stage Harbor",41.6667,-69.9667
+8447435,"Chatham Harbor, Aunt Lydias Cove",41.688499450683594,-69.95110321044922
+8447291,Pleasant Bay,41.7367,-69.9817
+8516201,Oyster Bay Harbor,40.8667,-73.5167
+8516299,Bayville Bridge,40.9033,-73.55
+8516061,Cold Spring Harbor,40.87329864501953,-73.47000122070312
+8519200,"Port Ivory, Howland Hook, N.Y.",40.645,-74.18
+8531077,"Rahway River, RR. Bridge",40.5983,-74.2317
+TEC1645,Chelsea,40.6,-74.2
+8531095,Carteret,40.5867,-74.21
+8519789,"Rossville, N.Y.",40.5567,-74.2233
+8531142,"Port Reading, Arthur Kill",40.55500030517578,-74.24500274658203
+8531156,"Woodbridge Creek, 0.8 n.mi. above entrance",40.545,-74.265
+8532715,Beaverdam Creek entrance,40.0617,-74.0617
+8532716,"Beaverdam Creek, inside",40.0617,-74.0733
+8532703,Forge Pond,40.065,-74.135
+8532721,Tall Pines Camp,40.0583,-74.1167
+8575331,Brewer Point,39.0267,-76.5333
+8575512,Annapolis (US Naval Academy),38.98327777777778,-76.48155555555556
+8636580,Windmill Point,37.6155,-76.28977777777777
+8636654,Mill Creek (Grey Point),37.5833,-76.4183
+8636458,"Millenbeck, Corrotoman River",37.6683,-76.4867
+8636522,Urbanna,37.65,-76.575
+8636261,Bayport,37.755,-76.6733
+8635985,Wares Wharf,37.8733,-76.7833
+8635881,Tappahannock,37.93,-76.8567
+8635554,Saunders Wharf,38.09,-77.0333
+8635299,Port Royal,38.1733,-77.19
+8635257,Park Turn,38.2133,-77.2433
+8635171,Hopyard Landing,38.2433,-77.2267
+8635154,Massaponax,38.255,-77.41
+8662926,Georgetown,33.36055555555556,-79.28611111111111
+8662237,Jacobs Wharf,33.3633,-79.355
+8662216,Cumberland,33.37,-79.4333
+8667272,"Bowles Island, New Chehaw River",32.565,-80.5167
+8667074,"Wiggins, Chehaw River",32.6017,-80.5417
+8667259,Fields Point,32.5683,-80.5533
+8666659,U.S. 17 Bridge,32.6517,-80.6833
+8666359,Bluff Plantation,32.6833,-80.7383
+8666166,Cuckolds Creek,32.7133,-80.695
+8668686,Fort Fremont,32.3067,-80.645
+8668445,"Parris Island, Marine Corps Recruit Depot",32.35,-80.6683
+8668282,"Distant Island, Cowen Creek",32.3783,-80.6333
+8668155,"Distant Island Creek, upper end, Cowen Creek",32.4017,-80.6533
+8668255,"Capers Creek, Cowen Creek, St. Helena Island",32.3717,-80.605
+8668173,"Cowen Creek, Rt. 21 bridge",32.3983,-80.6167
+8668092,"Battery Creek, 4 mi. above entrance",32.4133,-80.7
+8667999,Beaufort,32.43,-80.675
+8667864,"Marine Corps Air Station, Brickyard Creek",32.465,-80.6917
+8667909,"Albergottie Creek, Rt. 21 bridge",32.45,-80.7317
+9413450,"MONTEREY, MONTEREY BAY",36.60499954223633,-121.88805389404297
+9413617,General Fish Company Pier,36.8017,-121.787
+9413616,"Moss Landing, Ocean Pier",36.8017,-121.79
+9413626,Elkhorn Yacht Club,36.8133,-121.787
+9413623,"Elkhorn Slough, Highway 1 Bridge",36.81,-121.785
+9413624,Pacific Mariculture Dock,36.8133,-121.758
+9413631,"Elkhorn, Elkhorn Slough",36.81829833984375,-121.74700164794922
+9413643,"Tidal Creek, Elkhorn Slough",36.83330154418945,-121.74500274658203
+9413651,"Kirby Park, Elkhorn Slough",36.84130096435547,-121.74530029296875
+9413663,Elkhorn Slough railroad bridge,36.85667,-121.755
+9413745,"Santa Cruz, Monterey Bay",36.9583,-122.017
+9464881,"Egegik River Ent, Bristol Bay",58.2383,-157.5
+9464874,"Egegik, Egegik River",58.21670150756836,-157.375
+1612668,"Haleiwa, Waialua Bay",21.5983,-158.108
+1612482,Waianae,21.445,-158.192
+1612366,"Pearl Harbor Entrance, Bishop Point",21.33,-157.967
+1612404,"Pearl Harbor, Ford Island Ferry",21.3683,-157.94
+1612340,HONOLULU,21.30333333333334,-157.8645277777778
+1612301,Hanauma Bay,21.275,-157.697
+1612376,Waimanalo,21.335,-157.693
+1612480,MOKU O LOE,21.43305555555556,-157.79
+TPT2777,"Waikane, Kaneohe Bay",21.5,-157.85
+TPT2779,Laie Bay,21.65,-157.93333333332993
+8636735,"Jackson Creek, Deltaville",37.5483,-76.3317
+8636831,Dixie,37.5067,-76.4167
+8662953,"Windsor Plantation, Black River",33.415,-79.25
+8661686,Black River (south of Dunbar),33.5117,-79.3417
+8661593,"Winea Plantation, Black River",33.535,-79.3883
+8661734,"Mt. Pleasant Plantation, Black River",33.495,-79.4617
+8661367,"Rhems, Black Mingo Creek, Black River",33.6033,-79.4267
+8661913,Weymouth Plantation,33.455,-79.205
+8661873,"Carr Creek, 1 mile above entrance",33.465,-79.1867
+8661866,South of Sam Worth Game Management Area,33.4683,-79.1883
+8661741,Arundel Plantation,33.4833,-79.1783
+8661558,Holly Grove Plantation,33.5517,-79.1767
+8661299,Lower Topsaw Landing,33.6083,-79.1517
+8661093,Yauhannah Bridge,33.66,-79.155
+8664945,"Clouter Creek, south entrance",32.86,-79.9383
+8664662,Goose Creek entrance,32.91,-79.9517
+8664541,"Yeamans Hall, Goose Creek",32.925,-79.9867
+8664589,"Hanahan, Turkey Creek, Goose Creek",32.9183,-80.0117
+8664688,"Clouter Creek, north entrance",32.9067,-79.935
+8664515,"Snow Point, 0.4 mi. North of",32.9483,-79.9317
+8664022,General Dynamics Pier,33.0083,-79.9233
+8663757,"Dupont, Dean Hall",33.0583,-79.9367
+8663731,"Bonneau Ferry, East Branch",33.0717,-79.8833
+8663781,"Blessing Plantation, East Branch",33.055,-79.88
+8663665,"Richmond Plantation, East Branch",33.0767,-79.855
+8663535,"Quinby Creek bridge, East Branch",33.095,-79.8083
+8663631,"Old Rice Mill, West Branch",33.0783,-79.925
+8664131,"Back River Reservoir, West Branch",32.995,-79.9367
+8663539,"Pimlico, West Branch",33.095,-79.9533
+8667281,"Ocella Creek, 2 mi. above entrance",32.5617,-80.2383
+8667089,"Rockville, Bohicket Creek",32.5983,-80.195
+8666918,"Ho-Non-Wah Boy Scout Camp, Bohicket Creek",32.625,-80.1667
+8666282,"Oak Branch, Bohicket Creek",32.6833,-80.0967
+8667178,Point of Pines,32.585,-80.2283
+8666775,"Leadenwah Creek, 3 mi. above entrance",32.6367,-80.2017
+8667075,"Steamboat Landing, Steamboat Creek",32.6033,-80.2867
+8667101,"Windsor Plantation, Russel Creek",32.5983,-80.345
+8666799,"Dawho Bridge, Dawho River",32.6367,-80.3417
+8666552,"Park Island, Tom Point Creek",32.665,-80.3167
+8666433,"Toogoodoo Creek, 2 mi. above entrance",32.6683,-80.2933
+8666131,"Lower Toogoodoo Creek, 2 mi. above entrance",32.7033,-80.2783
+8667493,"Summerhouse Point, Bull River",32.5267,-80.5733
+8667199,"Briars Creek ent., Wimbee Creek, Bull River",32.5783,-80.67
+8667733,"Sams Point, Lucy Point Creek",32.4833,-80.6
+8667624,"Brickyard Point, Brickyard Creek",32.4933,-80.685
+8667491,Whale Branch entrance,32.525,-80.675
+8667411,"Lobeco, Whale Branch",32.5733,-80.745
+8667172,"Sheldon, Huspa Creek, Whale Branch",32.5833,-80.7833
+8679964,St. Marys,30.72,-81.5483
+8720004,Crandall,30.7217,-81.6217
+8720006,Little St. Marys River,30.7317,-81.7267
+8720001,Kings Ferry,30.7867,-81.84
+9415287,Georgiana Slough entrance,38.125,-121.578
+9415257,"Terminous, South Fork",38.11,-121.498
+9415478,New Hope Bridge,38.2267,-121.49
+9452534,Bartlett Cove,58.45513888888889,-135.8885
+9452586,Willoughby Island,58.6083,-136.117
+9452584,Muir Inlet,58.9133,-136.108
+9452632,"Wachusett Inlet, Glacier Bay",58.9467,-136.333
+9452682,Composite Island,58.8883,-136.573
+9452749,"Tarr Inlet, Glacier Bay",58.96477777777778,-136.8775833333333
+1613226,Kolo,21.0933,-157.197
+1613198,Kaunakakai,21.085,-157.032
+1613077,Kamalo Harbor,21.0483,-156.877
+1613155,Pukoo Harbor,21.0717,-156.8
+8532786,Mantoloking,40.0367,-74.0533
+8532835,"Kettle Creek, Green Island",40.0133,-74.1133
+8532885,Ocean Beach,39.9883,-74.0683
+8532921,"Silver Bay, Silver Bay Marina",39.9967,-74.1483
+8533005,Goose Creek entrance,39.9633,-74.115
+8533055,Coates Point,39.9483,-74.115
+8533051,"Toms River (town), Toms River",39.95000076293945,-74.19830322265625
+8533135,Seaside Park,39.9217,-74.0833
+8533141,Barnegat Pier,39.9183,-74.11
+8533185,Sloop Creek,39.905,-74.1333
+8533295,Cedar Creek,39.87,-74.155
+8533345,Island Beach,39.8517,-74.0883
+8533365,Stouts Creek,39.845,-74.1517
+8533391,Forked River,39.825,-74.1733
+8533465,Oyster Creek,39.8083,-74.1883
+8533535,"Island Beach, Sedge Islands",39.7883,-74.0983
+8533541,Waretown,39.7917,-74.1817
+8533615,"Barnegat Inlet, USCG Station",39.7617,-74.1117
+8533631,High Bar,39.7567,-74.1283
+8533665,Double Creek,39.745,-74.2017
+8533738,Loveladies Harbor,39.725,-74.1367
+8543925,Penrose Avenue Bridge,39.8983,-75.2117
+8545120,Market Street Bridge,39.955,-75.18
+8662931,Waccamaw River Entrance,33.36669921875,-79.25499725341797
+8661991,Hagley Landing,33.435,-79.1817
+8661703,Thoroughfare Creek entrance,33.5067,-79.145
+8661493,Wachesaw Landing,33.56330277777778,-79.08227777777778
+8661347,Bull Creek entrance,33.5967,-79.0983
+8661119,"Little Bull Creek entrance, Bull Creek",33.6017,-79.1183
+8661139,Bucksport,33.6467,-79.095
+8661067,Enterprise Landing,33.6667,-79.0633
+8660831,Keysfield,33.745,-79.065
+8660475,Pitch Landing,33.8,-79.055
+8660275,"Conway, RR. bridge",33.835,-79.0417
+8660315,Grahamville,33.83,-78.9533
+8665192,Hobcaw Point,32.8217,-79.9
+8664782,"Parker Island, Horlbeck Creek",32.885,-79.845
+8664701,Nowell Creek,32.9,-79.9
+8664545,Cainhoy,32.9267,-79.83
+8664611,Big Paradise Island,32.915,-79.7467
+8664582,Woodville,32.92,-79.7333
+8666699,Bluff Point,32.6467,-80.2567
+8666217,Yonges Island,32.695,-80.2233
+8666101,"Johns Island, Church Creek",32.7067,-80.1567
+8666029,Church Creek bridge,32.715,-80.0917
+8669801,"Bloody Point, Daufuskie Island",32.0817,-80.8783
+8669722,"Hargray Pier, Daufuskie Island",32.0983,-80.8983
+8669691,"Daufuskie Landing, Daufuskie Island",32.1033,-80.895
+8669531,Doughboy Island,32.1383,-80.9317
+8669346,"Good Hope Landing, south of",32.1767,-80.9667
+8669277,Cook Landing Cemetery,32.195,-81.0
+8669072,Rt. 170 bridge,32.2367,-81.0117
+9465203,"Naknek, Naknek River",58.73210144042969,-156.98330688476562
+9465174,Omakstalia Point,58.7067,-156.757
+9465149,King Salmon Airport,58.6717,-156.657
+8720582,"State Road 312, Matanzas River",29.8667,-81.3067
+8720651,"Crescent Beach, Matanzas River",29.7683,-81.2583
+8720686,"Fort Matanzas, Matanzas River, ICWW",29.715,-81.2383
+8720692,"Matanzas Inlet, State Road A1A Bridge",29.70453055555556,-81.22785555555555
+8720757,"Bings Landing, Matanzas River",29.615,-81.205
+8416232,Jones Neck,44.015,-69.38
+8416224,Waldoboro,44.0933,-69.3767
+8533780,Flat Creek,39.7067,-74.1917
+8533862,North Beach,39.675,-74.16
+8533909,Manahawkin Creek,39.6667,-74.215
+8533935,Manahawkin Drawbridge,39.6533,-74.185
+8537961,Sinnickson Landing,39.57,-75.4983
+8537979,Salem,39.5767,-75.4767
+8637199,"Mobjack, East River",37.3733,-76.3467
+8637072,Belleville,37.4117,-76.4383
+8637444,Browns Bay,37.3,-76.4
+8636653,Lester Manor,37.5833,-76.99
+8636558,Northbury,37.625,-77.1217
+8661419,"Garden City Bridge, Main Creek",33.5783,-79.0033
+8661582,Divine's Dock,33.5417,-79.0283
+8661559,Smith's Dock,33.545,-79.045
+8661529,"Captain Alex's Marina, Parsonage Creek",33.5517,-79.0367
+8661609,"Oaks Creek, 0.5 mi. above entrance",33.53,-79.0433
+8661608,Allston Creek,33.5317,-79.0533
+8661684,"Oaks Creek, upper end",33.5117,-79.0683
+8665775,"James Island Creek, 1 mi. above ent.",32.745,-79.9483
+8665613,"Wappoo Creek, highway bridge",32.7667,-79.9733
+8665495,South Ashley Bridge,32.7833,-79.9567
+8665145,Duck Island,32.83,-79.9667
+8665101,Cosgrove Bridge,32.835,-79.9867
+8665099,I-526 bridge,32.8367,-80.0217
+8665002,"Drayton, Bee's Ferry",32.8483,-80.0517
+8664841,Magnolia Gardens,32.8767,-80.0833
+8664532,"Greggs Landing, Mateeba Gardens",32.9317,-80.1567
+8664531,Bacon Bridge,32.9583,-80.2033
+8669369,Moreland Cemetery,32.175,-80.8917
+8669262,Bull Island North,32.2,-80.815
+8669103,Bluffton,32.23,-80.8617
+8676808,Crispen Island,31.213300704956055,-81.55000305175781
+TEC3515,Allied Chemical Corp. docks,31.183333333332993,-81.516666666667
+8676722,Dillard Creek,31.225,-81.5717
+8676787,Buffalo River entrance,31.215,-81.5833
+9450282,Mud Bay,55.0817,-132.632
+9450369,Copper Harbor,55.21,-132.625
+9450421,Sulzer,55.285,-132.622
+9465342,Kvichak,58.97,-156.947
+9465419,Levelock,59.11330032348633,-156.83200073242188
+1616696,Kuheia Bay,20.595,-156.607
+TPT2803,Smuggler Cove,20.516666666667007,-156.68333333332993
+8414721,"Fort Point, Penobscot River",44.4717,-68.8133
+8414581,"Gross Point, Eastern Channel",44.5367,-68.7583
+8414684,Bucksport,44.5717,-68.8017
+8414781,Winterport,44.6367,-68.8417
+8414692,Sandy Point,44.505,-68.805
+8414612,Bangor,44.785,-68.7667
+8416721,East Boothbay,43.865,-69.5833
+8416731,Walpole,43.9333,-69.58
+8416608,Newcastle,44.0333,-69.5367
+8533905,"Mill Creek, 1 n.mi. above entrance",39.665,-74.2317
+8533941,Cedar Run,39.6533,-74.2567
+8533982,"Dinner Point Creek, upper end",39.6567,-74.27
+8534048,Beach Haven Crest,39.6133,-74.21
+8534044,Westecunk Creek entrance,39.6133,-74.2633
+8533987,"West Creek, Westecunk Creek",39.6317,-74.2967
+8534049,"Parker Run, upper end",39.6167,-74.31
+8534139,Tuckerton Creek entrance,39.5767,-74.3317
+8534080,"Tuckerton, Tuckerton Creek",39.6017,-74.3417
+8534208,Beach Haven Coast Guard Station,39.5483,-74.2567
+8537731,0.8 n.mi. above entrance,39.4967,-75.5167
+8537774,Abbots Meadow,39.5117,-75.4933
+8537753,2.5 n.mi. above entrance,39.505,-75.4833
+8537779,Coopers Creek bridge,39.5133,-75.4467
+8537889,Quinton,39.5483,-75.415
+8638442,Ferry Point (bridge),37.2633,-76.8767
+8638441,Wright Island Landing,37.345,-76.875
+8638445,"Lanexa, Chicahomny River",37.4033,-76.9117
+8667676,"Edisto Marina, Big Bay Creek entrance",32.4933,-80.34
+8667679,"Carters Dock, Big Bay Creek",32.4933,-80.3267
+8667425,"Peters Point, St. Pierre Creek",32.54,-80.34
+8667309,Fenwick Island,32.56,-80.4183
+8667067,Pine Landing,32.6033,-80.3883
+8666616,Dawho River,32.6567,-80.3917
+8666367,"Willtown Bluff, Edisto River",32.6817,-80.4167
+8666167,"Hope Creek, Edisto River",32.7,-80.4267
+8666017,"Penny Creek, south of, Edisto River",32.715,-80.4367
+8665737,Jacksonboro Camp,32.7533,-80.45
+8665257,"Canaday Landing, south of, Edisto River",32.8133,-80.4067
+9465056,Protection Point,58.5,-158.712
+9465261,Nushagak Bay (Clarks Point),58.8483,-158.552
+9465374,Snag Point,59.04,-158.447
+9464961,"Cape Constantine, Nushagak Penninsula",58.52170181274414,-159.15199279785156
+9465265,"Kulukak Point, Kulukak Bay",58.84000015258789,-159.64700317382812
+9465182,"Black Rock, Walrus Islands",58.70830154418945,-160.18800354003906
+1615680,KAHULUI,20.89494444444445,-156.469
+1615395,Hana,20.7617,-155.987
+1615202,Makena,20.6567,-156.445
+TPT2797,"Kihei, Maalaea Bay",20.78333333333299,-156.46666666667008
+TPT2799,Lahaina,20.883333333332992,-156.68333333332993
+8534319,"Tuckerton, Shooting Thorofare, Little Egg Inlet",39.50830078125,-74.32499694824219
+8534287,Little Sheepshead Creek,39.5217,-74.32
+8534296,"Seven Island, Newmans Thorofare",39.5167,-74.3367
+8534244,Graveling Point,39.54,-74.3867
+TWC1513,"Kasook Inlet, Sukkwan Island",55.01666666666701,-132.78333333332992
+9450283,View Cove,55.0833,-133.017
+9450341,"South Pass, Sukkwan Strait",55.1667,-132.87
+9450364,"HYDABURG, SUKKWAN STRAIT",55.201698303222656,-132.822998046875
+9450351,Saltery Point,55.1817,-132.795
+9450366,"North Pass, West End",55.205,-132.94
+9450387,Natalia Point,55.2333,-133.043
+9450413,Soda Bay,55.275,-132.967
+9450406,"Block Island, Tlevak Narrows",55.263301849365234,-133.11500549316406
+1617277,Mahukona,20.1867,-155.903
+1617433,Kawaihae,20.0366,-155.8294
+1617846,Kailua Kona,19.6433,-156.0
+1618021,"Napoopoo, Kealakekua Bay",19.4767,-155.922
+1618578,Honuapo,19.0883,-155.553
+1617760,HILO,19.73027777777778,-155.0555555555555
+8534256,"Nacote Creek, U.S. Highway 9 bridge",39.535,-74.4633
+8534212,Chestnut Neck Boat Yard,39.5483,-74.4617
+8534104,"New Gretna, Bass River",39.5917,-74.4417
+8534043,"Wading River (town), Wading River",39.6183,-74.4967
+8534117,Green Bank,39.6117,-74.59
+8534002,"Sweetwater, Mullica River Marina",39.625,-74.6417
+8551973,"St. Georges, Delaware",39.555,-75.6483
+8552125,"Summit Bridge, Delaware",39.5333,-75.7333
+8573927,"Chesapeake City, Maryland",39.5267,-75.81
+9449184,Gooseberry Point,48.73,-122.67
+TWC1173,Point Migley,48.75,-122.71666666666995
+TWC1739,Favorite Bay,57.48333333333299,-134.55
+TWC1741,Mitchell Bay,57.53333333333299,-134.4
+9454671,Point Helen,60.1533,-147.767
+9454662,"Snug Harbor, Knight Island",60.25,-147.717
+9454652,"Bay of Isles, South Arm",60.3667,-147.7
+9454673,Port Audrey,60.3433,-147.768
+9454642,Louis Bay,60.4617,-147.672
+9454691,Herring Point,60.475,-147.792
+9462641,English Bay,53.925,-166.257
+9462611,"Dutch Harbor, Amaknak Island",53.8917,-166.537
+9462620,UNALASKA,53.87919444444444,-166.5403055555556
+9462578,Anderson Bay,53.6783,-166.832
+9462554,Skan Bay,53.61,-167.045
+TWC2187,Kashega Bay,53.46666666666701,-167.08333333332993
+9462501,Chernofski Harbor,53.395,-167.533
+9462557,Kuliliak Bay,53.4617,-167.02
+TWC2193,Eagle Bay,53.48333333333299,-166.93333333332993
+9462573,Raven Bay,53.475,-166.873
+9462582,Usof Bay,53.515,-166.79
+9462645,"Udamat Bay, Sedanka Island",53.82891666666667,-166.21625
+9462637,Udagak Strait,53.7367,-166.295
+9462606,"Kisselen Bay, Beaver Inlet",53.7133,-166.572
+8413320,BAR HARBOR,44.39219444444444,-68.20427777777778
+8413564,Southwest Harbor,44.275,-68.3133
+8413651,Bass Harbor,44.2417,-68.3533
+8571485,Whitehaven,38.2683,-75.7883
+8571616,"Salisbury, Wicomico River",38.3650016784668,-75.60669708251953
+8720217,Moncrief Creek entrance,30.3917,-81.6617
+8720216,"Lake Forest, Ribault River",30.3983,-81.6983
+8720213,Sherwood Forest,30.42,-81.7283
+TWC1169,Chuckanut Bay,48.666666666667005,-122.5
+9449211,Bellingham,48.745,-122.495
+8416968,Isle of Springs,43.86,-69.6867
+8416928,Cross River entrance,43.925,-69.67
+8416921,Wiscasset,44.0,-69.6667
+8416804,Sheepscot (below rapids),44.05,-69.6183
+8416961,Back River,43.9583,-69.6833
+8417067,"Robinhood, Sasanoa River",43.8533,-69.7333
+8417127,"Mill Point, Sasanoa River",43.8867,-69.7633
+8447975,Westport Harbor,41.5083,-71.0933
+8447791,"Hix Bridge, East Branch",41.57,-71.0733
+8571476,Roaring Point,38.2617,-75.92
+8571773,Vienna,38.48333,-75.81833333333333
+8571858,Sharptown,38.54499816894531,-75.72329711914062
+8414112,Blue Hill Harbor,44.4083,-68.5633
+8413825,"Mackerel Cove, Swans Island",44.16999816894531,-68.43499755859375
+8413801,"Ellsworth, Union River",44.535,-68.4217
+8417177,"Fort Popham, Hunniwell Point",43.755,-69.785
+8417221,Phippsburg,43.8183,-69.81
+8417227,Bath,43.925,-69.815
+8417271,"Sturgeon Island, Merrymeeting Bay",43.9817,-69.835
+8417377,Androscoggin River entrance,43.95,-69.8883
+8417527,"Brunswick, Androscoggin River",43.9217,-69.9633
+8417391,"Bowdoinham, Cathance River",44.0083,-69.895
+9462465,Otter Point,53.3967,-167.843
+9462408,Inanudak Bay,53.2967,-168.352
+9462354,Okee Bay,53.0167,-168.835
+9462317,Adugak Island,52.9117,-169.165
+9462331,Cape Sagak,52.8417,-169.043
+9462367,Driftwood Bay,52.9583,-168.72
+9462450,Nikolski,52.94061,-168.8713055557675
+9462398,Kigul Island,53.045,-168.442
+8466791,Sniffens Point,41.1867,-73.1133
+8466797,"Stratford, I-95 bridge",41.2033,-73.1117
+8466664,Long Hill,41.275,-73.0883
+8466573,Shelton,41.3017,-73.0717
+8538921,Bridgeboro,40.0283,-74.9317
+8538848,North Branch,39.9983,-74.8183
+8538824,"Hainesport, South Branch",39.9783,-74.8233
+8577330,Solomons Island,38.3172222,-76.4508333
+8577123,Broomes Island,38.415,-76.545
+8579135,Benedict,38.5133,-76.67
+8579542,Lower Marlboro,38.655,-76.68333333333334
+8668223,Hwy. 170 bridge,32.3867,-80.7767
+8668109,"Broughton Point, Hazzard Creek",32.41,-80.885
+TEC3327,"Euhaw Creek, 2.5 mi. above entrance",32.435,-80.85166666666701
+8667591,"Pilot Island, West Branch Boyds Creek",32.505,-80.8633
+8667633,"Corning Landing, Whale Branch",32.5025,-80.7841
+8667508,"RR. Bridge, Hall Island",32.5217,-80.8383
+8667146,"North Dawson Landing, Coosawhatchie River",32.5617,-80.91
+8667076,"Tulifiny River, I-95 bridge",32.6017,-80.9033
+8760412,"North Pass, Pass a Loutre",29.205,-89.0367
+8760721,Pilottown,29.17930555555556,-89.25883333333333
+8760416,Southeast Pass,29.1167,-89.045
+8760551,SOUTH PASS,28.99,-89.14
+8760579,"Port Eads, South Pass",29.015,-89.16
+8760959,Southwest Pass,28.9317,-89.4283
+8760736,Joseph Bayou,29.0583,-89.2717
+9454374,Busby Island,60.8983,-146.782
+9454363,Rocky Point,60.9467,-146.755
+9454309,Jack Bay,61.04,-146.615
+9454240,"VALDEZ, Port Valdez",61.12419444444444,-146.3631111111111
+8535055,"Bivalve, Maurice River",39.23249816894531,-75.03279876708984
+8537059,Mauricetown,39.285,-74.9917
+8537147,"Port Elizabeth, Manumuskin River",39.3133,-74.985
+8537242,Menantico Creek entrance,39.3433,-75.0083
+8537359,Millville,39.3917,-75.0417
+TEC4677,Punta Pasacaballos,22.066666666667007,-80.45
+TEC4679,Cienfuegos,22.133333333332992,-80.45
+8550714,Wilmington Marine Terminal,39.7183,-75.52
+8550658,"Millside, RR. bridge",39.725,-75.56
+9462161,East Cove,52.6533,-170.563
+9462144,North side,52.6817,-170.707
+8511671,Orient,41.1367,-72.3067
+8511907,Greenport,41.101,-72.36116666666666
+8512114,Southold,41.06,-72.4133
+8511779,Noyack Bay,40.995,-72.3317
+8511629,Sag Harbor,41.0033,-72.2967
+9418767,HUMBOLDT BAY (North Spit),40.76690555555555,-124.2173444444445
+9418723,Fields Landing,40.7233,-124.222
+9418686,Hookton Slough,40.6867,-124.222
+9418757,Elk River Railroad Bridge,40.7567,-124.193
+9418778,Bucksport,40.7783,-124.197
+9418801,Eureka,40.8067,-124.167
+9418802,Eureka Slough Bridge,40.8067,-124.142
+9418817,Samoa,40.8267,-124.18
+9418851,Arcata Wharf,40.85,-124.117
+9418865,"Mad River Slough, Arcata Bay",40.865,-124.148
+9449982,"Richardson, Lopez Island",48.4467,-122.9
+9449904,"Shaw Island, Ferry Terminal, Harney Channel",48.585,-122.928
+9449880,"Friday Harbor, San Juan Island",48.54527777777778,-123.0125
+8512328,New Suffolk,40.9917,-72.4717
+8512735,South Jamesport,40.935,-72.5817
+8571702,"Smithville Road Bridge, Beaverdam Creek",38.42833,-76.23666666666666
+8571752,"Taylors Island, Slaughter Creek",38.4667,-76.295
+8571807,"Woolford, Church Creek",38.5067,-76.1733
+8571881,"Cherry Island, Beckwiths Creek",38.5617,-76.2083
+9449712,"Echo Bay, Sucia Islands",48.7567,-122.897
+TWC1189,Ferndale,48.833333333332995,-122.71666666666995
+9449424,CHERRY POINT,48.86271666666666,-122.7585833333333
+9449679,"Blaine, Semiahmoo Bay",48.9917,-122.765
+9449639,"POINT ROBERTS, PUGET SOUND",48.974998474121094,-123.08300018310547
+9461693,"Martin Harbor, Korovin Bay",52.2267,-174.292
+9461710,"Atka, Nazan Bay",52.23194444444444,-174.1725
+9461704,Cape Utalug (4 miles west of),52.1183,-174.207
+9461555,"Atka Pass, east end",52.0067,-175.32
+9461667,Sagchudak Island,52.0267,-174.48
+9461656,Explorer Bay,52.0733,-174.568
+9461582,Bechevin Bay,52.0367,-175.115
+8571892,Cambridge,38.573299407958984,-76.06829833984375
+8571944,Dover Bridge,38.7567,-75.9983
+8572669,"Hillsboro, Tuckahoe Creek",38.9167,-75.945
+8664099,Five Fathom Creek entrance,33.0,-79.4967
+8663618,"McClellanville, Jeremy Creek",33.0783,-79.46
+8663899,Harbor River entrance,33.0333,-79.535
+8663858,"Buck Hall, Awendaw Creek",33.03883333,-79.56052778
+TEC3023,Jack Creek entrance,32.93333333333299,-79.58333333333299
+8664621,Wharf Creek entrance,32.9133,-79.6167
+8721994,Micco,27.8733,-80.4967
+8722029,Sebastian,27.8117,-80.4633
+8722059,Wabasso,27.755,-80.425
+8722125,Vero Beach,27.6317,-80.3717
+8722146,Oslo,27.5933,-80.3567
+8722207,St. Lucie,27.48,-80.3333
+8722208,North Beach Causeway,27.4717,-80.325
+8722219,"Fort Pierce, South Beach Causeway",27.4567,-80.3233
+8722274,Ankona,27.355,-80.2733
+8722312,"Eden, Nettles Island",27.2867,-80.2267
+8722338,Jensen Beach,27.235,-80.21
+9449856,"Kanaka Bay, San Juan Island",48.48500061035156,-123.08300018310547
+9449828,"Hanbury Point, Mosquito Pass, San Juan I.",48.5817,-123.17
+9449834,"Roche Harbor, San Juan Island",48.61,-123.155
+9449746,"WALDRON ISLAND, PUGET SOUND",48.686798095703125,-123.03759765625
+8534975,Beesleys Point,39.2883,-74.6283
+8534778,"Steelmanville, Patcong Ck., 2.5 nm above ent.",39.335,-74.5967
+8534883,"Tuckahoe, Tuckahoe River",39.295,-74.7483
+8535001,"Cedar Swamp Creek, Tuckahoe River",39.2467,-74.7183
+8572108,Oxford,38.6933,-76.1733
+8572296,Easton Point,38.7683,-76.095
+8725283,Little Hickory Island,26.3533,-81.855
+8725319,Coconut Point,26.4,-81.8433
+8725325,"Carlos Point, Estero Bay",26.405000686645508,-81.88500213623047
+8725346,Estero River,26.43,-81.8567
+8725377,"Hendry Creek, Estero Bay",26.47,-81.8767
+8725351,"Estero Island, Estero Bay",26.4383,-81.9183
+8761724,"EAST POINT, GRAND ISLE",29.26333333333333,-89.95666666666666
+TEC4455,"Bayou Rigaud, Grand Isle",29.266666666667007,-89.96666666666701
+8761677,Independence Island,29.31,-89.9383
+8761742,"Mendicant Island, Barataria Bay",29.318300247192383,-89.9800033569336
+8761732,Manilla,29.4267,-89.9767
+8761899,"Lafitte, Barataria Waterway",29.6667,-90.1117
+9449704,Patos Island Wharf,48.7867,-122.97
+9461380,"Sweeper Cove, Kuluk Bay, Adak Island",51.86063888888889,-176.6375833333333
+9461406,Adak Bight,51.77,-176.435
+9461391,Boot Bay,51.7133,-176.53
+9461337,Bay of Waterfalls,51.6417,-176.825
+9461341,Unalga Bight,51.78,-176.807
+9459163,"Herendeen Island, Shumagin Islands",55.06555555555556,-159.4186666666667
+9459251,Bird Island,54.83522222222222,-159.7595555555556
+9459311,"Sanborn Harbor, Nagai Island",55.155,-159.995
+TWC2119,"Mist Harbor, Nagai Island",55.13333333333299,-159.85
+9459398,"Pirate Cove, Popof Island",55.3617,-160.36
+9459450,"SAND POINT, POPOF ISLAND",55.3316667,-160.5044444
+9459465,"Zachary Bay, Unga Island",55.334999084472656,-160.61700439453125
+9461292,Shoal Point,51.87,-177.068
+9461276,Cape Chlanak,51.71,-177.145
+9461264,Kanaga Bay,51.7183,-177.2
+9461183,Cape Chunu,51.665,-177.637
+8512671,Shinnecock Bay entrance,40.82,-72.5617
+8512451,Ponquoque Point,40.85,-72.5033
+8512769,"Shinnecock Yacht Club, Penniman Creek",40.81855555555556,-72.58661111111111
+8512354,Shinnecock Inlet (ocean),40.8367,-72.48
+8535163,"Strathmere, Strathmere Bay",39.2,-74.6567
+8535101,"Middle Thorofare, Ocean Drive bridge",39.215,-74.6483
+8535221,"Ludlam Bay, west side",39.1767,-74.71
+8593005,Washington Naval Yard,38.8717,-76.995
+8593545,Kingman Lake,38.895,-76.9683
+8593909,Kenilworth Aquatic Garden,38.91,-76.955
+8579997,"Bladensburg, Md.",38.9333,-76.9383
+8722334,North Fork,27.2433,-80.3133
+8722357,Stuart,27.2,-80.2583
+8722376,South Fork,27.165,-80.255
+8722371,Sewall Point,27.175,-80.1883
+8722383,"Port Salerno, Manatee Pocket",27.1517,-80.195
+TEC4271,Pass-a-Grille Beach,27.683333333332993,-82.733333333333
+8726486,Gulfport,27.7367,-82.7067
+8726494,"Long Key, 0.5mi N. of Corey Causeway",27.7517,-82.7533
+8726533,Johns Pass,27.785,-82.7817
+8726574,Madeira Beach Causeway,27.8083,-82.795
+8727386,Florida Power,28.96,-82.725
+8727359,"Shell Island, north end",28.9233,-82.6917
+8727348,Twin Rivers Marina,28.905,-82.6383
+8727343,Kings Bay,28.8983,-82.5983
+8535375,Ocean Drive bridge,39.1217,-74.7167
+8535309,Townsend Sound,39.1467,-74.75
+8535357,Stites Sound,39.12,-74.755
+8535419,Ingram Thorofare,39.11,-74.7383
+8535451,"Long Reach, Ingram Thorofare",39.1017,-74.755
+8725418,Iona Shores,26.5217,-81.965
+8725451,Cape Coral Bridge,26.56329917907715,-81.93329620361328
+8725520,Fort Myers,26.6476993560791,-81.87120056152344
+9457724,Larsen Bay,57.5333,-153.99
+9457671,Mining Camp,57.46,-153.817
+9457648,Zachar Bay,57.5483,-153.735
+9461162,Hot Springs Bay,51.7783,-177.8
+9461138,Tanaga Bay,51.7183,-177.997
+9461132,Lash Bay,51.6717,-178.045
+8535581,"Stone Harbor, Great Channel",39.05670166015625,-74.76499938964844
+8535661,"Nummy Island, Grassy Sound Channel",39.0283,-74.8017
+8535726,"West Wildwood, Grassy Sound",39.005,-74.8267
+8535695,"Old Turtle Thorofare, RR. bridge",39.0183,-74.8417
+TWC2067,Village Islands,57.78333333333299,-153.55
+TWC2069,Northeast Arm,57.73333333333299,-153.33333333332993
+TWC2071,Uganik Passage,57.8,-153.3
+9457493,Terror Bay,57.74402777777778,-153.1954722222222
+9461081,Ogliuga Island (east coast),51.6033,-178.617
+TWC2297,Gareloi Island,51.75,-178.8
+8535805,"Swain Channel, Taylor Sound",38.98,-74.8633
+8535838,"Wildwood Crest, Sunset Lake",38.9783,-74.8367
+8535901,Cape May Harbor,38.9483,-74.8917
+TWC2075,Onion Bay,58.05,-153.2333333333299
+TWC2077,Dry Spruce Island,57.95,-153.03333333332992
+9457407,Nachalni Island,57.9783,-152.925
+9457376,Uzkosti Point,57.9283,-152.812
+8515186,Fire Island Coast Guard Station,40.6267,-73.26
+8515014,Fire Island Light,40.635,-73.22
+8514779,Seaview Ferry Dock,40.64925,-73.15061111111112
+8514961,West Fire Island,40.6567,-73.205
+8514322,Patchogue,40.75,-73.0
+8514783,"Great River, Connetquot River",40.7233,-73.1517
+8515102,"Bay Shore, Watchogue Creek Entrance",40.7167,-73.24
+8515336,Oak Beach,40.64,-73.295
+8515421,Babylon,40.685,-73.315
+8515764,Gilgo Heading,40.62,-73.395
+8515864,Amityville,40.655,-73.4183
+TWC2303,"Constantine Harbor, Amchitka Island",51.41669845581055,179.28329467773438
+TWC2305,"Gertrude Cove, Kiska Island",51.93330001831055,177.4499969482422
+TWC2307,"Kiska Harbor, Kiska Island",51.983299255371094,177.5500030517578
+8572955,Love Point,39.0317,-76.3017
+8572867,Queenstown,38.9967,-76.1583
+8573006,"Centreville Landing, Corsica River",39.0533,-76.075
+8573125,Cliffs Point,39.1067,-76.1417
+8573137,Cliffs Wharf,39.11,-76.1383
+8573343,Chestertown,39.2067,-76.0633
+8573349,Crumpton,39.245,-75.925
+9468039,Northeast Cape,63.3167,-168.967
+9468123,Fossil River entrance,63.4667,-170.017
+9468258,Savoonga,63.67908333333333,-170.5371111111111
+9468216,Niyrakpak Lagoon entrance,63.62,-171.383
+8516225,Deep Creek Meadow,40.6033,-73.525
+8516155,Green Island,40.6233,-73.5017
+8516221,Cuba Island,40.62,-73.5233
+8516211,"Bellmore, Bellmore Creek",40.6633,-73.52
+8516315,Neds Creek,40.6233,-73.555
+8516411,"Freeport, Baldwin Bay",40.6333,-73.5867
+8516501,"Baldwin, Parsonage Cove, Hempstead Bay",40.6333,-73.6167
+8516601,Long Beach (Inside),40.6,-73.65
+8516663,"Long Beach, Bridgewater Yacht Club, New York",40.59633333333333,-73.65508333333334
+8516661,"Bay Park, Hewlett Bay",40.63,-73.67
+8516745,"Woodmere, Brosewere Bay",40.62,-73.6983
+9457321,Big Bay,58.555,-152.613
+9457293,Carry Inlet,58.5867,-152.513
+9459939,Peterson Bay,54.3933,-162.637
+9459968,Sanak Harbor,54.4817,-162.812
+9460150,MASSACRE BAY,52.84000015258789,173.19500732421875
+TWC2315,Chichagof Harbor,52.91669845581055,173.21670532226562
+TWC2317,Holtz Bay,52.91669845581055,173.1667022705078
+TWC2319,Steller Cove,52.96670150756836,172.89999389648438
+TWC2321,Etienne Bay,52.91669845581055,-172.61669921875
+8727989,"Mandalay, Aucilla River",30.1267,-83.975
+8728130,ST. MARKS RIVER ENTRANCE,30.0783,-84.1783
+8728142,"St. Marks, St. Marks River",30.1533,-84.2033
+8728229,"Shell Point, Walker Creek",30.06,-84.29
+8728237,"Bald Point, Ochlockonee Bay",29.9483,-84.3417
+8728269,"Panacea, Dickerson Bay",30.0283,-84.3867
+8728288,"Alligator Point, St. James Island",29.9033,-84.4133
+8728360,"Turkey Point, St. James Island",29.915,-84.5117
+8517756,"Kingsborough, Sheepshead Bay",40.581199645996094,-73.93379974365234
+8517531,Plumb Beach Channel,40.585,-73.925
+8517394,"Barren Island, Rockaway Inlet",40.5783,-73.8883
+8517137,Beach Channel (bridge),40.5883,-73.82
+8516925,Motts Basin,40.6167,-73.7583
+8516891,"Norton Point, Head of Bay",40.635,-73.7467
+8516999,J.F.K. International Airport,40.6233,-73.7833
+8517201,"North Channel Bridge, Grassy Bay",40.645,-73.8367
+8517381,Canarsie,40.63,-73.885
+8517519,Mill Basin,40.6083,-73.9217
+8728408,"Dog Island, East End",29.81,-84.585
+8728465,"Dog Island, west end",29.785,-84.6667
+8728412,"Lanark, St. George Sound",29.878299713134766,-84.59500122070312
+8728464,"Carrabelle, Carrabelle River",29.85,-84.665
+8728488,South Carrabelle Beach,29.801700592041016,-84.73670196533203
+8728486,"St. George Island, Northeast End",29.766700744628906,-84.69999694824219
+8728548,"St. George Island, East End",29.6867,-84.7867
+8728552,"St. George Island, Rattlesnake Cove",29.6917,-84.7917
+8728626,"St. George Island, 12th St. W (Bayside)",29.6533,-84.8967
+8728669,"St. George Island, Sikes Cut",29.613300323486328,-84.95829772949219
+8764256,Point Au Fer,29.3333,-91.3533
+8764314,"Eugene Island, North of, Atchafalaya Bay",29.36750030517578,-91.38390350341797
+8763843,Fourleague Bay,29.341800689697266,-91.135498046875
+8764227,"LAWMA, Amerada Pass",29.449600219726562,-91.33809661865234
+8764165,Shell Island,29.4733,-91.305
+8764025,Stouts Pass at Six Mile Lake,29.7433,-91.23
+8764634,Point Chevreuil,29.5183,-91.555
+8764706,"Rabbit Island, 5 miles south of",29.42,-91.5933
+8764931,"Cote Blanche Island, West Cote Blanche Bay",29.735,-91.7133
+8765026,"South Point, Marsh Island",29.485,-91.7633
+8725577,"Port Boca Grande, Charlotte Harbor",26.72,-82.2583
+8725541,"Bokeelia, Charlotte Harbor",26.70669937133789,-82.16329956054688
+8725649,Turtle Bay,26.7967,-82.1833
+8725744,"Punta Gorda, Charlotte Harbor",26.9283,-82.065
+8725791,"Shell Point, Peace River, Charlotte Harbor",26.9883,-81.9933
+8725745,"Locust Point, Hog Island",26.93,-82.1367
+8725769,"El Jobean, Myakka River",26.9617,-82.21
+8725837,"Myakka River, US 41 bridge",27.045,-82.2933
+8573903,Town Point Wharf,39.5033,-75.9167
+8573969,Old Frenchtown Wharf,39.575,-75.8433
+8722492,A1A highway bridge,26.9467,-80.09
+TEC3787,Tequesta,26.95,-80.10166666666701
+TEC3789,"Tequesta, North Fork entrance",26.95166666666701,-80.10166666666701
+8722486,"Tequesta, North Fork",26.96,-80.105
+8722478,"North Fork, 2 miles above entrance",26.975,-80.1133
+8722481,3 miles above A1A highway bridge,26.97,-80.1267
+8722472,Boy Scout Dock,26.9867,-80.1417
+8722494,"Southwest Fork, 0.5 mile above entrance",26.9433,-80.12
+8722496,Southwest Fork (spillway),26.935,-80.1433
+8728619,Cat Point,29.72361111111111,-84.88666666666667
+8728694,"WHITE BEACH, EAST BAY",29.785,-84.8983
+8728690,APALACHICOLA,29.726699829101562,-84.98169708251953
+8728711,Apalachicola River (A&N RR bridge),29.7633,-85.0333
+8728757,"Huckleberry Landing, Jackson River",29.770000457763672,-85.08499908447266
+TEC4343,Lower Anchorage,29.6,-85.05
+8728766,West Pass,29.6333,-85.0967
+8728786,"Eleven Mile, St. Vincent Sound",29.70669937133789,-85.1532974243164
+8728912,"Port Saint Joe, St. Joseph Bay",29.815,-85.3133
+8728958,"St. Joseph Point, St. Joseph Bay",29.873300552368164,-85.38999938964844
+8728853,"White City, ICWW",29.88069444444444,-85.22144444444444
+8729136,Channel entrance,30.125,-85.73
+8729132,Courtney Point,30.15169906616211,-85.66670227050781
+8729108,Panama City,30.15227777777778,-85.66694444444444
+8729210,Panama City Beach,30.21375,-85.87858333333334
+8729084,Parker,30.1267,-85.6117
+8729045,"Laird Bayou, East Bay",30.1217,-85.5283
+8729017,"Farmdale, East Bay",30.0167,-85.47
+8729015,"Allanton, East Bay",30.03,-85.465
+8728973,"Wetappo Creek, East Bay",30.0383,-85.3933
+8728957,Overstreet,29.996700286865234,-85.37000274658203
+8729152,Alligator Bayou,30.17,-85.755
+8729102,"Lynn Haven, North Bay",30.255,-85.6483
+8729197,"West Bay Creek, West Bay",30.29330062866211,-85.8582992553711
+8729511,East Pass (Destin),30.395,-86.5133
+8729425,"Driftwood Point, Choctawhatchee Bay",30.389400482177734,-86.32879638671875
+8729538,"Shalimar, Garnier Bayou",30.435,-86.5867
+8729501,Valparaiso,30.503299713134766,-86.49330139160156
+8729479,"Rocky Bayou, Choctawhatchee Bay",30.50670051574707,-86.44670104980469
+8722557,North Palm Beach,26.8267,-80.055
+8722588,Port of Palm Beach,26.77,-80.0517
+8722607,Palm Beach,26.7333,-80.0417
+8722621,"Palm Beach, Highway 704 bridge",26.705,-80.045
+8722654,West Palm Beach Canal,26.645,-80.045
+8722706,"Boynton Beach, Lake Worth",26.54829978942871,-80.05329895019531
+8729887,Fort McRee Breakwater,30.3267,-87.3117
+8729868,"Warrington, 2 miles south of",30.345,-87.2733
+8729840,PENSACOLA,30.40438888888889,-87.21119444444444
+8729807,Pensacola Beach Pier,30.3275,-87.141944
+8729791,"Hernandez Point, Escambia Bay",30.454999923706055,-87.0999984741211
+8729816,"Lora Point, Escambia Bay",30.514999389648438,-87.16169738769531
+8729824,"Floridatown, Escambia Bay",30.58169937133789,-87.18000030517578
+8729702,"Holley, East Bay",30.450000762939453,-86.91829681396484
+8729742,"Bay Point, Blackwater River",30.5717,-87.005
+8729747,"Shield Point, Blackwater River",30.58169937133789,-87.01499938964844
+TEC4383,"Milton, Blackwater River",30.616666666667008,-87.03333333333299
+8729753,"Hawkins Rec. Park, Blackwater River",30.636699676513672,-87.0282974243164
+8729941,Blue Angels Park,30.38694444444445,-87.42880555555556
+8729962,"Nix Point, Perdido Bay",30.3933,-87.425
+8729905,"Millview, Perdido Bay",30.4183,-87.3567
+8730667,Alabama Point,30.27861111111111,-87.55500030517578
+8658901,Bald Head,33.88,-78.0017
+8659086,Fort Caswell,33.8967,-78.0167
+8659084,Southport,33.915,-78.0183
+8658741,Zekes Island,33.95,-77.9517
+8658715,Federal Point,33.9617,-77.94
+8658654,"Sunny Point Army Base, Wharf no.1",33.99,-77.9567
+8658622,Reaves Point,34.0033,-77.955
+8658579,"Sunny Point Army Base, Wharf no.3",34.0233,-77.9467
+8658501,Orton Point,34.0567,-77.94
+8658120,WILMINGTON,34.2275,-77.9536111
+TEC2863,"Castle Hayne, Northeast River",34.35,-77.933333333333
+TEC2865,"Bannermans Branch, Northeast River",34.583333333332995,-77.766666666667
+8722939,Bahia Mar Yacht Club,26.1133,-80.1083
+8722937,"Andrews Avenue bridge, New River",26.1183,-80.145
+8723156,San Marino Island,25.7933,-80.1633
+8723165,"Miami Miamarina, Biscayne Bay",25.7783,-80.185
+8723155,"Dodge Island, Fishermans Channel",25.77,-80.1683
+8723205,Dinner Key Marina,25.7267,-80.2367
+8724378,Perky,24.6483,-81.57
+8724353,Park Channel Bridge,24.655,-81.54
+8724367,North Harris Channel,24.6533,-81.5533
+8724334,Tarpon Creek,24.63,-81.5167
